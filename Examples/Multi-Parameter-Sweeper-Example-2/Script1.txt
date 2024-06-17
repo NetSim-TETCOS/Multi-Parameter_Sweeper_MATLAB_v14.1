@@ -1,0 +1,3 @@
+MENU NAME="Link_Metrics"
+TABLE NAME="Link_Metrics"
+SET A="Packets transmitted\Data" WHERE "Link_id"="All"

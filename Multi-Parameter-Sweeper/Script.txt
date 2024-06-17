@@ -1,0 +1,3 @@
+MENU NAME="Application_Metrics"
+TABLE NAME="Application_Metrics"
+SET A="Throughput (Mbps)" WHERE "Application Id"="1"
